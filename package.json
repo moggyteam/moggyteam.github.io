@@ -1,0 +1,30 @@
+{
+  "name": "moggyteam",
+  "version": "1.0.0",
+  "description": "tencent moggyteam blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TencentMoggy/tencentmoggy.github.io.git"
+  },
+  "keywords": [
+    "moggy",
+    "tencent",
+    "blog"
+  ],
+  "author": "lizmlzhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TencentMoggy/tencentmoggy.github.io/issues"
+  },
+  "homepage": "https://github.com/TencentMoggy/tencentmoggy.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "jquery": "^2.1.4",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0"
+  }
+}

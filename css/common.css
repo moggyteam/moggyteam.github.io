@@ -1,0 +1,25 @@
+.app {
+    font-family: "Microsof Yahei";
+}
+
+.app_nav {
+    background-color: #333;
+    color: white;
+    font-size: 15px;
+}
+
+.app_nav li {
+    display: inline-block;
+}
+
+.app_nav a {
+    display: block;
+    padding: 8px 10px;
+    color: #eee;
+}
+
+.app_member {
+    padding: 15px;
+    border-radius: 4px;
+    background-color: #f5f5f5;
+}

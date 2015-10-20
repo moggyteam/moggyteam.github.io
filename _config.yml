@@ -1,0 +1,8 @@
+name: Moggy
+description: moggy team github page
+url: http://tencentmoggy.github.io
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
+paginate: 5
